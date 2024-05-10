@@ -6,7 +6,7 @@ public class Libro {
     private int ejemplares;
     private int prestados;
 
-    //constructor por defecto
+    //constructor por defecto sin parametros
     public Libro() {
     }
 
